@@ -14,7 +14,8 @@ def abstracttive_summary(meeting_note):
     # Decode summary
     output = tokenizer.decode(summary[0])
     output = output1
-    return outpu
+    return output1
+    else 'done'
 ## test branch
 ##done with the changes 
 
