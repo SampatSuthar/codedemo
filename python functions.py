@@ -15,8 +15,12 @@ def abstracttive_summary(meeting_note):
     output = tokenizer.decode(summary[0])
     output = output1
     return output1
+#<<<<<<< test
     if 'no':
         else 'yes'
+=======
+    else 'done'
+#>>>>>>> main
 ## test branch
 ##done with the changes 
 
