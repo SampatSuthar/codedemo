@@ -16,6 +16,7 @@ def abstracttive_summary(meeting_note):
     output = output1
     return output1
     else 'done'
+#>>>>>>> main
 ## test branch
 ##done with the changes 
 
